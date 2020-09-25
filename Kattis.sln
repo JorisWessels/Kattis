@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hello World!", "Hello World
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Take Two Stones", "Take Two Stones\Take Two Stones.csproj", "{EF740CFF-187A-4DBB-B00E-1D7DF2FD8ABA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "R2", "R2\R2.csproj", "{A9274AE0-677F-4DE3-8B5B-8BAE91BEEF3B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{EF740CFF-187A-4DBB-B00E-1D7DF2FD8ABA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EF740CFF-187A-4DBB-B00E-1D7DF2FD8ABA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EF740CFF-187A-4DBB-B00E-1D7DF2FD8ABA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9274AE0-677F-4DE3-8B5B-8BAE91BEEF3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9274AE0-677F-4DE3-8B5B-8BAE91BEEF3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9274AE0-677F-4DE3-8B5B-8BAE91BEEF3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9274AE0-677F-4DE3-8B5B-8BAE91BEEF3B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
