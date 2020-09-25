@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Take Two Stones", "Take Two
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "R2", "R2\R2.csproj", "{A9274AE0-677F-4DE3-8B5B-8BAE91BEEF3B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quality-Adjusted Life-Year", "Quality-Adjusted Life-Year\Quality-Adjusted Life-Year.csproj", "{DB9D4B5D-5418-4ABB-B72C-E6D56711E2A4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{A9274AE0-677F-4DE3-8B5B-8BAE91BEEF3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A9274AE0-677F-4DE3-8B5B-8BAE91BEEF3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A9274AE0-677F-4DE3-8B5B-8BAE91BEEF3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB9D4B5D-5418-4ABB-B72C-E6D56711E2A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB9D4B5D-5418-4ABB-B72C-E6D56711E2A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB9D4B5D-5418-4ABB-B72C-E6D56711E2A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB9D4B5D-5418-4ABB-B72C-E6D56711E2A4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
