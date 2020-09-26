@@ -3,15 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30517.126
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hello World!", "Hello World!\Hello World!.csproj", "{5ABD1B6B-5DF1-46C5-8B48-A4782C33426A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hello World!", "Hello World!\Hello World!.csproj", "{5ABD1B6B-5DF1-46C5-8B48-A4782C33426A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Take Two Stones", "Take Two Stones\Take Two Stones.csproj", "{EF740CFF-187A-4DBB-B00E-1D7DF2FD8ABA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Take Two Stones", "Take Two Stones\Take Two Stones.csproj", "{EF740CFF-187A-4DBB-B00E-1D7DF2FD8ABA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "R2", "R2\R2.csproj", "{A9274AE0-677F-4DE3-8B5B-8BAE91BEEF3B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "R2", "R2\R2.csproj", "{A9274AE0-677F-4DE3-8B5B-8BAE91BEEF3B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quality-Adjusted Life-Year", "Quality-Adjusted Life-Year\Quality-Adjusted Life-Year.csproj", "{DB9D4B5D-5418-4ABB-B72C-E6D56711E2A4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Quality-Adjusted Life-Year", "Quality-Adjusted Life-Year\Quality-Adjusted Life-Year.csproj", "{DB9D4B5D-5418-4ABB-B72C-E6D56711E2A4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pot", "Pot\Pot.csproj", "{713037A8-8302-40A5-8DED-A7605EC9BCF4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pot", "Pot\Pot.csproj", "{713037A8-8302-40A5-8DED-A7605EC9BCF4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Faktor", "Faktor\Faktor.csproj", "{36C32438-09E1-4A1E-8275-B38F32DF7510}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{713037A8-8302-40A5-8DED-A7605EC9BCF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{713037A8-8302-40A5-8DED-A7605EC9BCF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{713037A8-8302-40A5-8DED-A7605EC9BCF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36C32438-09E1-4A1E-8275-B38F32DF7510}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36C32438-09E1-4A1E-8275-B38F32DF7510}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36C32438-09E1-4A1E-8275-B38F32DF7510}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36C32438-09E1-4A1E-8275-B38F32DF7510}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
