@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Quality-Adjusted Life-Year"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pot", "Pot\Pot.csproj", "{713037A8-8302-40A5-8DED-A7605EC9BCF4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Faktor", "Faktor\Faktor.csproj", "{36C32438-09E1-4A1E-8275-B38F32DF7510}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Faktor", "Faktor\Faktor.csproj", "{36C32438-09E1-4A1E-8275-B38F32DF7510}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Planina", "Planina\Planina.csproj", "{42267FC4-7BD0-42E4-BEB6-0E128788542C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{36C32438-09E1-4A1E-8275-B38F32DF7510}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{36C32438-09E1-4A1E-8275-B38F32DF7510}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{36C32438-09E1-4A1E-8275-B38F32DF7510}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42267FC4-7BD0-42E4-BEB6-0E128788542C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42267FC4-7BD0-42E4-BEB6-0E128788542C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42267FC4-7BD0-42E4-BEB6-0E128788542C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42267FC4-7BD0-42E4-BEB6-0E128788542C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
