@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pot", "Pot\Pot.csproj", "{7
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Faktor", "Faktor\Faktor.csproj", "{36C32438-09E1-4A1E-8275-B38F32DF7510}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Planina", "Planina\Planina.csproj", "{42267FC4-7BD0-42E4-BEB6-0E128788542C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Planina", "Planina\Planina.csproj", "{42267FC4-7BD0-42E4-BEB6-0E128788542C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stuck In A Time Loop", "Stuck In A Time Loop\Stuck In A Time Loop.csproj", "{BEC3E8CF-4B72-48CC-B086-F94EFDAC1BBA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{42267FC4-7BD0-42E4-BEB6-0E128788542C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{42267FC4-7BD0-42E4-BEB6-0E128788542C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{42267FC4-7BD0-42E4-BEB6-0E128788542C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEC3E8CF-4B72-48CC-B086-F94EFDAC1BBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEC3E8CF-4B72-48CC-B086-F94EFDAC1BBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEC3E8CF-4B72-48CC-B086-F94EFDAC1BBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEC3E8CF-4B72-48CC-B086-F94EFDAC1BBA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
